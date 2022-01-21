@@ -2,12 +2,7 @@
 
 ## Supported Versions
 
-Current versions:
-
-| Version | Supported          |
-| ------- | ------------------ |
-| v2-beta  | :hammer: **Under works** |
-| v1 | :white_check_mark: **Under release** |
+Versions can be found in the [README.md](README.md)
 
 
 ## Reporting a Vulnerability

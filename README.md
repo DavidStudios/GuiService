@@ -11,7 +11,7 @@ GuiService is a folder to make GUI’s, Frames and notifications!
 
 ## Installation:
 
-1. Go to [**Releases**](https://github.com/DavidTheRobloxDev/releases)
+1. Go to [**Releases**](https://github.com/DavidTheRobloxDev/GuiService/releases)
 2. Download the .rbxm file
 3. Save it in a safe place
 4. Open a Roblox Studio game or template session

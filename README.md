@@ -23,3 +23,8 @@ GuiService is a folder to make GUI’s, Frames and notifications!
 
 If you cannot install the .rbxm file or you think it contains threats / viruses, you can take the model from my inventory (Username: DavidTDC3377) and click on Models
 
+
+## Current versions
+**V1-beta** | :+1: | *Fully [released!](https://github.com/DavidTheRobloxDev/GuiService/releases/tag/beta-releases/1)*
+<br>
+**V2-beta** | :hammer: | *In the works! Stay tuned :eyes:*

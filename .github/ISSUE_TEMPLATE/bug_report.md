@@ -33,5 +33,5 @@ Add any other context about the problem here.
 
 
 
-- [] Do you agree to the [Issue Guidelines](https://github.com/DavidTDC3377/GuiService/wiki/Issue-Guidelines)?
+- [] Do you agree to the [Issue Guidelines](https://github.com/DavidTheRobloxDev/GuiService/wiki/Issue-Guidelines)?
 - [] Does your post abide by the Github [Terms of Service](https://github.com/terms)?

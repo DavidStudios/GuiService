@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-Versions can be found in the [README.md](README.md)
+Versions can be found in the [wiki](https://github.com/DavidTheRobloxDev/GuiService/wiki#current-versions)
 
 
 ## Reporting a Vulnerability

@@ -11,3 +11,5 @@ We are **no longer** providing updates to this.
 Installation links and mirrors will be deleted.
 
 
+Check https://github.com/DavidTheRobloxDev/GuiService/discussions/11 for info
+
